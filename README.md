@@ -17,23 +17,23 @@ My name is Trịnh Văn Hào. I am a passionate IT student specializing in Web D
 <a href="https://github.com/Trinhvhao/SecureChat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=SecureChat&theme=radical" />
 </a>
-<a href="https://github.com/Trinhvhao/Drowsiness-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=Drowsiness-Detection&theme=merko" />
+<a href="https://github.com/Trinhvhao/YOLO-Based-Drowsiness-Detection-System-for-Road-Safety">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=YOLO-Based-Drowsiness-Detection-System-for-Road-Safety&theme=merko" />
 </a>
-<a href="https://github.com/Trinhvhao/Secure-File-Transfer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=Secure-File-Transfer&theme=gruvbox" />
+<a href="https://github.com/Trinhvhao/secure-file-transfer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=secure-file-transfer&theme=gruvbox" />
 </a>
 <a href="https://github.com/Trinhvhao/BigData-Realty-Trends">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=BigData-Realty-Trends&theme=dark" />
 </a>
-<a href="https://github.com/Trinhvhao/Weather-App-Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=Weather-App-Flutter&theme=onedark" />
+<a href="https://github.com/Trinhvhao/Weather_App_Flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=Weather_App_Flutter&theme=onedark" />
 </a>
-<a href="https://github.com/Trinhvhao/SportStore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=SportStore&theme=cobalt" />
+<a href="https://github.com/Trinhvhao/AspNetCore_SportStore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=AspNetCore_SportStore&theme=cobalt" />
 </a>
-<a href="https://github.com/Trinhvhao/Record-Healthcare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=Record-Healthcare&theme=synthwave" />
+<a href="https://github.com/Trinhvhao/BlockChain_RecordHealthcare">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=BlockChain_RecordHealthcare&theme=synthwave" />
 </a>
 <a href="https://github.com/Trinhvhao/NLP-Sentiment">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=NLP-Sentiment&theme=highcontrast" />
