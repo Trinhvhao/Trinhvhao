@@ -6,7 +6,6 @@ My name is Trịnh Văn Hào. I am a passionate IT student specializing in Web D
 
 [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/trinh-van-hao/)  
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Trinhvhao/)  
-[![YouTube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) YouTube](https://www.youtube.com/channel/your-youtube-channel) <!-- Thay bằng link YouTube của bạn nếu có -->
 
 ## 📊 GitHub Stats
 
