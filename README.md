@@ -34,6 +34,6 @@ My name is Trịnh Văn Hào. I am a passionate IT student specializing in Web D
 <a href="https://github.com/Trinhvhao/BlockChain_RecordHealthcare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=BlockChain_RecordHealthcare&theme=synthwave" />
 </a>
-<a href="https://github.com/Trinhvhao/NLP-Sentiment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=NLP-Sentiment&theme=highcontrast" />
+<a href="https://github.com/Trinhvhao/TalentBridge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Trinhvhao&repo=TalentBridge&theme=highcontrast" />
 </a>
