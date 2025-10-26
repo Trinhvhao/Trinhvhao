@@ -16,6 +16,23 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trinhvhao&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trinhvhao&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trinhvhao&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trinhvhao&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</div>
+
+---
+
 ## 🎯 About Me
 
 ```typescript
@@ -38,7 +55,7 @@ const trinhVanHao = {
 
 <div align="center">
 
-### 💡 "Don’t wait for opportunity — create it" – Unknown
+### 💡 "Don't wait for opportunity — create it" – Unknown
 
 </div>
 
@@ -112,22 +129,6 @@ const trinhVanHao = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trinhvhao&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trinhvhao&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trinhvhao&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trinhvhao&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -222,17 +223,6 @@ AI-powered job matching platform connecting talents with opportunities.
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Trinhvhao/Trinhvhao/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 💼 Currently Working On
 
