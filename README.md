@@ -217,14 +217,26 @@ AI-powered job matching platform connecting talents with opportunities.
 
 <div align="center">
 
-| 🎖️ Achievement | 📅 Year | 🏅 Status |
-|---------------|---------|-----------|
-| 🥇 Hackathon Winner - Open Source | 2024 | ✅ Completed |
-| 🌟 Top Contributor - PyTorch Community | 2023 | ✅ Completed |
-| 🎓 AWS Certified Developer | 2024 | 🔄 In Progress |
-| 🤖 TensorFlow Developer Certificate | 2024 | 🔄 In Progress |
+<table>
+  <tr>
+    <th>🎖️ Achievement</th>
+    <th>📅 Year</th>
+    <th>🏅 Status</th>
+  </tr>
+  <tr>
+    <td>🐍 Python for Data Science (IBM Cognitive Class) – Certificate of Completion for the foundational Data Science course using Python, issued by IBM</td>
+    <td>2023</td>
+    <td>✅ Completed</td>
+  </tr>
+  <tr>
+    <td>⛓️ Build Blockchain Applications with Python – Certificate awarded by Vietnam Blockchain Innovation (VBI) in collaboration with the Algorand Foundation</td>
+    <td>2024</td>
+    <td>✅ Completed</td>
+  </tr>
+</table>
 
 </div>
+
 
 
 ## 💼 Currently Working On
