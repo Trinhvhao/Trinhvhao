@@ -19,16 +19,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Trinhvhao&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trinhvhao&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
+  <img src="https://streak-stats.demolab.com/?user=Trinhvhao&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-khaki-delta.vercel.app?user=Trinhvhao&theme=dark&hide_border=true"" alt="GitHub Streak"/>
-  </a>
-</div>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Trinhvhao&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
@@ -131,7 +123,6 @@ const trinhVanHao = {
 </div>
 
 ---
-
 
 ## 🚀 Featured Projects
 
@@ -237,7 +228,7 @@ AI-powered job matching platform connecting talents with opportunities.
 
 </div>
 
-
+---
 
 ## 💼 Currently Working On
 
