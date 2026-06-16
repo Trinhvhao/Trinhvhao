@@ -11,6 +11,7 @@
   </a>
  
 [![Visits Badge](https://komarev.com/ghpvc/?username=Trinhvhao&label=Profile%20views&color=red&style=for-the-badge)](https://hayyie.click)
+[![wakatime](https://wakatime.com/badge/user/haotrinh142.svg?style=for-the-badge)](https://wakatime.com/@haotrinh142)
 <a href="https://www.tiktok.com/@itlamcontent.th" target="_blank"><img align="right" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Trinh Van Hao | TikTok" /></a><a href="https://linkedin.com/in/hayyie111" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Trinh Van Hao | LinkedIn" /></a><a href="mailto:haotrinh142@gmail.com"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Trinh Van Hao | Email" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://hayyie.click/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
