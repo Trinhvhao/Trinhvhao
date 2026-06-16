@@ -5,7 +5,7 @@
   <a href="https://hayyie.click">
     <img
       alt="Trinh Van Hao"
-      src="./assets/banner.png"
+      src="./my-profile/assets/banner.png"
       width="100%"
     />
   </a>
