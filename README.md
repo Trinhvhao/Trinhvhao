@@ -40,6 +40,13 @@
 
 ```txt
 <!--START_SECTION:waka-->
+
+```true
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 ```
 
