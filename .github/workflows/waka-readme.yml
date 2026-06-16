@@ -11,6 +11,8 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: athul/waka-readme@master 
         with:
