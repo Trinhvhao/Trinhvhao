@@ -10,23 +10,6 @@
     />
   </a>
  
-<div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
-  <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    Hi, I'm Trinh Van Hao,
-  </span>
-  <span style="display: inline-block; vertical-align: middle;">
-    <img
-      src="./my-profile/myLogo/logo.webp"
-      alt="Trinh Van Hao"
-      width="80"
-      style="border-radius: 24px; cursor: pointer; margin: 0 15px;"
-    />
-  </span>
-  <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    a Web Developer based in Vietnam.
-  </span>
-</div>
-
 [![Visits Badge](https://komarev.com/ghpvc/?username=Trinhvhao&label=Profile%20views&color=red&style=for-the-badge)](https://hayyie.click)
 [![wakatime](https://wakatime.com/badge/user/770b507b-d017-4d88-b742-d8bd512a5721.svg?style=for-the-badge)](https://hayyie.click)
 <a href="https://www.tiktok.com/@itlamcontent.th" target="_blank"><img align="right" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Trinh Van Hao | TikTok" /></a><a href="https://linkedin.com/in/hayyie111" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Trinh Van Hao | LinkedIn" /></a><a href="mailto:haotrinh142@gmail.com"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Trinh Van Hao | Email" /></a>
