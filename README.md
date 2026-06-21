@@ -39,11 +39,20 @@
 📊<b> Weekly development breakdown</b>
 
 <!--START_SECTION:waka-->
-```true
-Total Time: 0 secs
 
-No activity tracked
+```true
+Total Time: 1 hr 57 mins
+
+Markdown     47 mins               █████████░░░░░░░░░░░░░░░░   35.85 %
+JavaScript   29 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+JSON         22 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
+Other        14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+YAML         10 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+INI          5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Text         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+GLSL         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
+
 <!--END_SECTION:waka-->
 
 <details>
