@@ -16,9 +16,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <a href="https://hayyie.click/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
-<h3>Xây dựng sản phẩm web với sức mạnh của <i>AI</i>.</h3>
+<h3>Building web products powered by <i>AI</i>.</h3>
 
-- 🌱 Currently leveling up in **AI ứng dụng vào web**
+- 🌱 Currently leveling up in **applying AI to web development**
 
 - 👨‍💻 My projects → [hayyie.click/project](https://hayyie.click/project)
 
