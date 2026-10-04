@@ -41,16 +41,16 @@
 <!--START_SECTION:waka-->
 
 ```true
-Total Time: 2 hrs 44 mins
+Total Time: 16 hrs 29 mins
 
-HTML          1 hr 28 mins          █████████████▒░░░░░░░░░░░   52.83 %
-JavaScript    37 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
-Markdown      16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-CSS           10 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-PowerShell    5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-Other         2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Image (png)   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Python        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Markdown                   5 hrs 8 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
+Other                      2 hrs 55 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+HTML                       2 hrs 52 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
+CSS                        1 hr 31 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+JavaScript                 1 hr 27 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Bash                       1 hr 6 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+TypeScript                 1 hr 5 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+PowerShell                 1 hr 4 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
